@@ -1,3 +1,5 @@
+package myproject;
+
 import java.util.*;
 class RemoveDuplicancy
 {
